@@ -18,6 +18,30 @@ Usage:
 Author:
     Fiona Githaiga
 """
+import os
+
+
+def load_correct_answers():
+    # Create an empty list to store correct answers
+    correct_answers = []
+
+    # Get the list of files in the quiz_files folder
+    quiz_files_dir = "quiz_files"
+    quiz_files = os.listdir(quiz_files_dir)
+
+    # Sort the quiz files based on their numbers
+    quiz_files.sort(key=lambda x: int(x.split('_')[1].split('.')[0]))
+
+    # Read each question file and extract the correct answer
+    for file_name in quiz_files:
+        file_path = os.path.join(quiz_files_dir, file_name)
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            correct_answer = lines[-1].strip().split()[-1]
+            correct_answers.append(correct_answer)
+
+    return correct_answers
+
 def quiz():
     # Define the quiz questions, options, and correct answers
     questions = [

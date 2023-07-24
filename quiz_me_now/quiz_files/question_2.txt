@@ -1,5 +1,14 @@
+Question 2:
+
 2. What will be the value of 'result' after the following code?
 
    numbers = [1, 2, 3, 4, 5]
    result = [x * 2 for x in numbers if x % 2 == 0]
+
+Options:
+a) [2, 4, 6]
+b) [4, 8]
+c) [8, 4]
+d) [2, 6, 4]
+
 Correct Answer: b

@@ -26,6 +26,7 @@ After answering all the questions, the script will display your final score and 
 1. What is the output of the following code?
 
 print(2 + 2 * 3 - 4)
+
 a) 6
 
 b) 8
@@ -38,6 +39,7 @@ d) 2
 
 numbers = [1, 2, 3, 4, 5]
 result = [x * 2 for x in numbers if x % 2 == 0]
+
 a) [2, 4, 6]
 
 b) [4, 8]
@@ -81,6 +83,7 @@ d) It terminates the program
 
 num_list = [1, 2, 3, 4, 5]
 print(num_list[-2])
+
 a) 4
 
 b) 3
@@ -120,10 +123,10 @@ c) It defines a new instance method
 d) It is used for exception handling
 
 
-Author
-Fiona Githaiga
+# Author
+# Fiona Githaiga
 
-License
+# License
 This project is licensed under the MIT License.
 
 Feel free to contribute to this project by raising issues or submitting pull requests. Happy coding!

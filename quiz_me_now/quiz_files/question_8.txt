@@ -1,0 +1,11 @@
+Question 8:
+
+8. Which of the following is used to read user input in Python?
+
+Options:
+a) read()
+b) input()
+c) get()
+d) scan()
+
+Correct Answer: b

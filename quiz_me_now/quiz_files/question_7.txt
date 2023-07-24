@@ -1,0 +1,11 @@
+Question 7:
+
+7. What does the 'yield' keyword do in Python?
+
+Options:
+a) It defines a new class
+b) It creates an iterator
+c) It is used to pause and resume a function's execution
+d) It raises an exception
+
+Correct Answer: c

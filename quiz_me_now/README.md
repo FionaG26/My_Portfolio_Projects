@@ -15,7 +15,6 @@ The quiz consists of 5 questions, each with multiple-choice options. The user is
 3. Open a terminal or command prompt and navigate to the directory where the python_quiz.py file is located.
 
 4. Run the script by executing the following command:
-
 python python_quiz.py
 The quiz will start, and you will see the first question with multiple-choice options (a, b, c, or d).
 
@@ -59,6 +58,32 @@ b) It continues to the next iteration of a loop
 c) It is used as a comment placeholder
 d) It terminates the program
 
+6. What is the output of the following code?
+
+num_list = [1, 2, 3, 4, 5]
+print(num_list[-2])
+a) 4
+b) 3
+c) 5
+d) 2
+
+7. What does the 'yield' keyword do in Python?
+a) It defines a new class
+b) It creates an iterator
+c) It is used to pause and resume a function's execution
+d) It raises an exception
+
+8. Which of the following is used to read user input in Python?
+a) read()
+b) input()
+c) get()
+d) scan()
+
+9. What is the purpose of the 'self' keyword in Python class methods?
+a) It is used to access class variables
+b) It is a reference to the current instance of the class
+c) It defines a new instance method
+d) It is used for exception handling
 Author
 Fiona Githaiga
 

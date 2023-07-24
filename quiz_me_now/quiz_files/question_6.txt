@@ -1,0 +1,14 @@
+Question 6:
+
+6. What is the output of the following code?
+
+   num_list = [1, 2, 3, 4, 5]
+   print(num_list[-2])
+
+Options:
+a) 4
+b) 3
+c) 5
+d) 2
+
+Correct Answer: b

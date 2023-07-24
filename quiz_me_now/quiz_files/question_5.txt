@@ -1,0 +1,11 @@
+Question 5:
+
+5. What does the 'pass' keyword do in Python?
+
+Options:
+a) It raises an exception
+b) It continues to the next iteration of a loop
+c) It is used as a comment placeholder
+d) It terminates the program
+
+Correct Answer: c

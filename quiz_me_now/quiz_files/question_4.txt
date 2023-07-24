@@ -1,0 +1,11 @@
+Question 4:
+
+4. What is the time complexity of searching for an element in a Python list using the 'in' keyword?
+
+Options:
+a) O(1)
+b) O(n)
+c) O(log n)
+d) O(n^2)
+
+Correct Answer: b

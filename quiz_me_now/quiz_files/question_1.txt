@@ -1,4 +1,13 @@
+Question 1:
+
 1. What is the output of the following code?
 
    print(2 + 2 * 3 - 4)
+
+Options:
+a) 6
+b) 8
+c) 4
+d) 2
+
 Correct Answer: c

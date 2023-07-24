@@ -5,7 +5,7 @@ Python Version
 ## Description
 The "Interactive Python Coding Interview Quiz" is a Python script that presents the user with a series of multiple-choice questions related to Python programming. It serves as a fun and educational tool to test and improve your knowledge of common Python coding interview questions.
 
-The quiz consists of 5 questions, each with multiple-choice options. The user is prompted to select the correct option for each question. After completing the quiz, the user receives feedback on their performance and sees their final score.
+The quiz consists of 9 questions, each with multiple-choice options. The user is prompted to select the correct option for each question. After completing the quiz, the user receives feedback on their performance and sees their final score.
 
 ## How to Use
 1. Ensure you have Python 3.x installed on your system.

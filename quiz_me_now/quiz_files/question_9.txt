@@ -1,0 +1,11 @@
+Question 9:
+
+9. What is the purpose of the 'self' keyword in Python class methods?
+
+Options:
+a) It is used to access class variables
+b) It is a reference to the current instance of the class
+c) It defines a new instance method
+d) It is used for exception handling
+
+Correct Answer: b

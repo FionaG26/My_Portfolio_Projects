@@ -27,8 +27,11 @@ After answering all the questions, the script will display your final score and 
 
 print(2 + 2 * 3 - 4)
 a) 6
+
 b) 8
+
 c) 4
+
 d) 2
 
 2. What will be the value of 'result' after the following code?
@@ -36,26 +39,42 @@ d) 2
 numbers = [1, 2, 3, 4, 5]
 result = [x * 2 for x in numbers if x % 2 == 0]
 a) [2, 4, 6]
+
 b) [4, 8]
+
 c) [8, 4]
+
 d) [2, 6, 4]
 
+
 3. Which of the following is used to add an element at the end of a list in Python?
+   
 a) append()
+
 b) add()
+
 c) insert()
+
 d) extend()
 
 4. What is the time complexity of searching for an element in a Python list using the 'in' keyword?
+   
 a) O(1)
+
 b) O(n)
+
 c) O(log n)
+
 d) O(n^2)
 
 5. What does the 'pass' keyword do in Python?
+   
 a) It raises an exception
+
 b) It continues to the next iteration of a loop
+
 c) It is used as a comment placeholder
+
 d) It terminates the program
 
 6. What is the output of the following code?
@@ -63,27 +82,44 @@ d) It terminates the program
 num_list = [1, 2, 3, 4, 5]
 print(num_list[-2])
 a) 4
+
 b) 3
+
 c) 5
+
 d) 2
 
 7. What does the 'yield' keyword do in Python?
+   
 a) It defines a new class
+
 b) It creates an iterator
+
 c) It is used to pause and resume a function's execution
+
 d) It raises an exception
 
 8. Which of the following is used to read user input in Python?
+   
 a) read()
+
 b) input()
+
 c) get()
+
 d) scan()
 
 9. What is the purpose of the 'self' keyword in Python class methods?
+    
 a) It is used to access class variables
+
 b) It is a reference to the current instance of the class
+
 c) It defines a new instance method
+
 d) It is used for exception handling
+
+
 Author
 Fiona Githaiga
 

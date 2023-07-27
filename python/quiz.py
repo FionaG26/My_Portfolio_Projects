@@ -38,7 +38,7 @@ def load_correct_answers():
         file_path = os.path.join(quiz_files_dir, file_name)
         with open(file_path, 'r') as file:
             lines = file.readlines()
-            correct_answer = lines[-1].strip().split()[-1].lower()
+            correct_answer = lines[-1].strip().split(': ')[-1].lower()
             correct_answers.append(correct_answer)
 
     return correct_answers

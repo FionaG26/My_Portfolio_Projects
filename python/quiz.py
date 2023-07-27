@@ -20,12 +20,14 @@ Author:
 import os
 
 
+import os
+
 def load_correct_answers():
     # Create an empty list to store correct answers
     correct_answers = []
 
     # Get the list of files in the quiz_files folder
-    quiz_files_dir = "quiz_files"
+    quiz_files_dir = "c:/Users/fiona/Documents/GitHub/My_Portfolio_Projects/quiz_me_now/quiz_files"
     quiz_files = os.listdir(quiz_files_dir)
 
     # Sort the quiz files based on their numbers
